@@ -65,5 +65,5 @@ module.exports = function(RED) {
         makeRequest();
     }
     
-    RED.nodes.registerType("mtconnect-receive", MTconnectReceiveNode);
+    RED.nodes.registerType("MTconnect Receive", MTconnectReceiveNode);
 }

@@ -1,5 +1,5 @@
 <script type="text/javascript">
-    RED.nodes.registerType('mtconnect-receive',{
+    RED.nodes.registerType('MTconnect Receive',{
         category: 'MTconnect',
         color: '#a6bbcf',
         defaults: {
@@ -16,7 +16,7 @@
     });
 </script>
 
-<script type="text/html" data-template-name="mtconnect-receive">
+<script type="text/html" data-template-name="MTconnect Receive">
     <div class="form-row">
         <label for="node-input-name"><i class="fa fa-tag"></i> Name</label>
         <input type="text" id="node-input-name" placeholder="Name">
@@ -31,7 +31,7 @@
     </div>
 </script>
 
-<script type="text/html" data-help-name="mtconnect-receive">
+<script type="text/html" data-help-name="MTconnect Receive">
     <p>A node that receives MTconnect XML data and converts it to JSON.</p>
     <p>This node performs an HTTP request to the specified URL, parses the XML response into JSON, and outputs the result.</p>
     <p>The node is self-injecting based on the specified inject time.</p>

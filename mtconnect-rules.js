@@ -44,5 +44,5 @@ module.exports = function(RED) {
         });
     }
 
-    RED.nodes.registerType("mtconnect-rules", MTconnectRulesNode);
+    RED.nodes.registerType("MTconnect Rules", MTconnectRulesNode);
 }
