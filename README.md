@@ -2,7 +2,7 @@
 
 A Node-RED package for MTconnect integration.
 
-For some time now, when working with MTconnect, I have noticed using 'Ladder99' was not ideal for what I wanted. Ladder99 software stack can be frustrating to work with, so, I created this node package to deal with this problem. 
+For some time now, when working with MTconnect, I have noticed using 'Ladder99' was not ideal for the task I was undertaking. I created this node package as an alternative to integrate MTconnect into Node-RED.
 
 To allow maximum flexibility, the nodes were designed to allow the user to manually select the data they desire.
 
@@ -13,13 +13,8 @@ I have also provided an example flow for anyone who needs it.
 
 |                 |                          |
 | -------------   |-------------             |
-| Sam McNaughton  | DIAS/DMTC Ltd            |
-| Steve Dowey     | Sutton Tools             |
 | Abhik Banerjee  | Swinburne University     |
-| Ashish Manchanda | Swinburne University     |
-| Liam Bradley    | Swinburne University     |
-| John Palinic    | BMP Precision Engineering|
-| David Peric     | BMP Precision Engineering|
+| Ashish Manchanda | Swinburne University    |
 
 Thank you to all that helped me develop these nodes!
 
