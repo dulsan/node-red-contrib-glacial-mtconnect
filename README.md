@@ -8,6 +8,7 @@ To allow maximum flexibility, the nodes were designed to allow the user to manua
 
 I have also provided an example flow for anyone who needs it. 
 
+(These nodes are still in Beta, they are bound to have bugs, please report them on the github page)
 
 ## Acknowledgements
 
